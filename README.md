@@ -29,11 +29,6 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://github.com/PedroLucasFernandes/PedroLucasFernandes/assets/123201188/089a5946-bb86-40c6-bdcd-b36fb3fe8c95">
   <img align="center" alt="POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
-  
-### Ainda vou aprender:
-<div style="display: inline_block">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-</div>
 
 ### Ferramentas:
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;

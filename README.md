@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0&size=30&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Pedro+Fernandes.;Sou+de+Taubaté,+SP.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0&size=30&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Pedro+Fernandes.;Sou+programador+Web+e+Mobile.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
  
 ![Pedro Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucasFernandes&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasFernandes&theme=dark)](https://github.com/PedroLucasFernandes/github-readme-stats)
